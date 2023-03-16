@@ -1,1 +1,1 @@
-[![Search]](https://notwithering.github.io/housing/)
+[Search](https://notwithering.github.io/housing/)
