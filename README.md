@@ -4,7 +4,7 @@ This repository contains bookmarklets for various online games that provide shor
 
 ## Bookmarklets
 
-- Instant Fullscreen
+- [Instant Fullscreen](https://github.com/NotWithering/gamehack/blob/9bacc47b60b2297da10b307d042aef9d3be9ce90/coolmath-skip)
 - Coolmathgames.com Waiting Skip
 
 For the actual code of each bookmarklet, please check the source code of the repository.
