@@ -1,1 +1,1 @@
-javascript:cmg_remove_padg();
+javascript:(function () {var script = document.createElement("script");script.src = "https://github.com/NotWithering/online-game-hacks/blob/7571478d3f6c04240580402471160114a8304859/zz.script-coolmath-skip.js";document.body.append(script);}())
