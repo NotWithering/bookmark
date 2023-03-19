@@ -4,9 +4,9 @@ This repository contains bookmarklets for various online games that provide shor
 
 ## Bookmarklets
 
-- [Instant Fullscreen](https://github.dev/NotWithering/online-game-hacks/blob/5d23bb613fd8349599b0ecdd6420e1c427b717de/instant-fullscreen.js)
-- [Coolmathgames.com Waiting Skip](https://github.dev/NotWithering/online-game-hacks/blob/5d23bb613fd8349599b0ecdd6420e1c427b717de/coolmath-skip.js)
-- [Coolmathgames.com fix](https://github.dev/NotWithering/online-game-hacks/blob/5d23bb613fd8349599b0ecdd6420e1c427b717de/coolmathgames.js)
+- [Instant Fullscreen](https://github.com/NotWithering/online-game-hacks/blob/5d23bb613fd8349599b0ecdd6420e1c427b717de/instant-fullscreen.js)
+- [Coolmathgames.com Waiting Skip](https://github.com/NotWithering/online-game-hacks/blob/5d23bb613fd8349599b0ecdd6420e1c427b717de/coolmath-skip.js)
+- [Coolmathgames.com fix](https://github.com/NotWithering/online-game-hacks/blob/5d23bb613fd8349599b0ecdd6420e1c427b717de/coolmathgames.js)
 
 For the actual code of each bookmarklet, please check the source code of the repository.
 
