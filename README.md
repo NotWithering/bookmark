@@ -1,11 +1,11 @@
-# Online Game Bookmarklet Hacks
+# Bookmarklet Hacks
 
-This repository contains bookmarklets for various online games that provide shortcuts or hacks to enhance the gaming experience. The bookmarklets can be easily added to your browser bookmarks bar and executed while playing games on specific websites.
+This repository contains bookmarklets for various websites that provide shortcuts or hacks to enhance the browsing experience. The bookmarklets can be easily added to your browser bookmarks bar and executed while browsing on specific websites.
 
 ## Bookmarklets
 
 - [Instant Fullscreen](https://github.com/NotWithering/online-game-hacks/blob/5d23bb613fd8349599b0ecdd6420e1c427b717de/instant-fullscreen.js)
-- [Coolmathgames.com Waiting Skip](https://github.com/NotWithering/online-game-hacks/blob/5d23bb613fd8349599b0ecdd6420e1c427b717de/coolmath-skip.js)
+- [Coolmathgames.com Skip](https://github.com/NotWithering/online-game-hacks/blob/5d23bb613fd8349599b0ecdd6420e1c427b717de/coolmath-skip.js)
 - [Coolmathgames.com fix](https://github.com/NotWithering/online-game-hacks/blob/5d23bb613fd8349599b0ecdd6420e1c427b717de/coolmathgames.js)
 
 For the actual code of each bookmarklet, please check the source code of the repository.
@@ -17,6 +17,6 @@ For the actual code of each bookmarklet, please check the source code of the rep
 3. Name the bookmark whatever you like.
 4. Paste the bookmarklet code in the URL field of the bookmark.
 5. Save the bookmark.
-6. While playing a game on a specific website, click on the bookmark to execute the bookmarklet.
+6. While browsing on a specific website, click on the bookmark to execute the bookmarklet.
 
-Note: The bookmarklets may not work on all online games or websites.
+Note: The bookmarklets may not work on all websites.
